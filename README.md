@@ -1,6 +1,6 @@
 Tramplin — это веб-приложение для студентов, выпускников и IT-компаний. 
 
-Презентация проекта: [https://drive.google.com/file/d/1Gr7hSB7exUjKZyauSmsn..]
+Презентация проекта: https://drive.google.com/file/d/1Gr7hSB7exUjKZyauSmsn2ho9q8ANt110/view?usp=drive_link
 
 Платформа позволяет:
 - Искать вакансии/стажировки/мероприятия на карте и в списке.
